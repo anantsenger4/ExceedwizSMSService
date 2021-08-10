@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "excedwiz_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}

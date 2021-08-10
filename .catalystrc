@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "2620000000028001",
+      "name": "excedwiz",
+      "domain": {
+        "id": 10030835327,
+        "name": "excedwiz-698471191.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "698471191",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
